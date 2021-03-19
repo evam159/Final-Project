@@ -1,5 +1,5 @@
 # Final-Project
 For project compilation purposes only.
-#Created by: 
-Mariel Albaracin
-Jhevamae Lozano
+# Created by: 
+### Mariel Albaracin
+### Jhevamae Lozano
